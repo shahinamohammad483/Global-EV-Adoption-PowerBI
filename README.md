@@ -83,8 +83,8 @@ Example:
 **Mohammad Shahina**  
 Aspiring Data Analyst | Power BI Developer
 
-📌 LinkedIn: (Add your LinkedIn profile link here)  
-📌 GitHub: (Add your GitHub profile link here)
+📌 LinkedIn: https://www.linkedin.com/in/shahina-mohammad-29a721251/ 
+📌 GitHub: https://github.com/shahinamohammad483
 
 ---
 
