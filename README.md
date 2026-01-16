@@ -87,6 +87,17 @@ Aspiring Data Analyst | Power BI Developer
 📌 GitHub: https://github.com/shahinamohammad483
 
 ---
+## 🖼 Dashboard Preview
+
+### Dashboard 1
+![Dashboard 1](screenshots/dashboard1.png)
+
+### Dashboard 2
+![Dashboard 2](screenshots/dashboard2.png)
+
+### Dashboard 3
+![Dashboard 3](screenshots/dashboard3.png)
+
 
 ## ⭐ Support
 If you found this project helpful, please consider giving it a ⭐ on GitHub!
